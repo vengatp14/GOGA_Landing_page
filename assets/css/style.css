@@ -231,3 +231,10 @@ opacity: 1;
     border: 2px solid #00FF5C ;
     border-radius: 20px;
 }
+
+::placeholder {
+    color: greenyellow !important;
+  }
+  ::-ms-input-placeholder { /* Edge 12-18 */
+    color: greenyellow !important;
+  }
