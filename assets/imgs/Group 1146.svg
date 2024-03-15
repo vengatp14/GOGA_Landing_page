@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="632" viewBox="0 0 1920 632">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.366" y1="0.434" x2="1.132" y2="1.218" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00ff5c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1146" data-name="Group 1146" transform="translate(0 -3807)">
+    <g id="Group_1159" data-name="Group 1159">
+      <rect id="Rectangle_11591" data-name="Rectangle 11591" width="384" height="632" rx="192" transform="translate(384 4439) rotate(180)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_11591-2" data-name="Rectangle 11591" width="384" height="632" rx="192" transform="translate(384 3807)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_11591-3" data-name="Rectangle 11591" width="384" height="632" rx="192" transform="translate(1152 4439) rotate(180)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_11591-4" data-name="Rectangle 11591" width="384" height="632" rx="192" transform="translate(1152 3807)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_11591-5" data-name="Rectangle 11591" width="384" height="632" rx="192" transform="translate(1920 4439) rotate(180)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

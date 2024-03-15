@@ -1,0 +1,233 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Sacramento, Regular;
+}
+
+/* body  */
+.bg-black_body{
+    background-color: black !important;
+    }
+
+/* nav  */
+.active_btn{
+    /* UI Properties */
+background: transparent linear-gradient(181deg, #00000000 0%, var(--unnamed-color-00ff5c) 100%) 0% 0% no-repeat padding-box;
+background: transparent linear-gradient(181deg, #00000000 0%, #00FF5C 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+
+/* banner  */
+.background_img{
+background-image: url("../imgs/Group\ 13597@2x.png");
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
+.banner_text{
+text-align: left;
+font: normal normal normal 42px/43px Barlow;
+letter-spacing: 0.88px;
+color: #00FF5C;
+opacity: 1;
+margin-top: 200px;
+}
+
+.banner_text_1{
+    color: white;
+    font-size: 4vw;
+    opacity: 0.5;
+}
+.banner_text_2{
+    font: normal normal 600 3vw Barlow;
+    letter-spacing: 1.16px;
+    line-height: 50px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.clint_text{
+    font: normal normal normal 55px/58px Sacramento;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.border_css{
+    border-bottom: 3px dotted #00FF5C;
+    padding-bottom: 5px;
+}
+
+
+.About_goga{
+    font: normal normal normal 55px/58px Sacramento;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.Ex_goga{
+    font: normal normal normal 35px/47px Microsoft JhengHei;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.what_goga{
+    font: normal normal normal 35px/47px Microsoft JhengHei;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.Explanation_goga{
+    font: normal normal normal 21px/40px Microsoft JhengHei;
+    color: #CFC3C3;
+    opacity: 1;
+}
+.bg-_img_card{
+    background-image: url("../imgs/Rectangle\ 11580.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.bg-_img_card_1{
+    background-image: url("../imgs/Rectangle\ 11577.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.bg-_img_card_2{
+    background-image: url("../imgs/Rectangle\ 11581.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.two_sec_bg{
+    background-image: url("../imgs/abstract-black-textured-background-with-scratches-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cards_bg{
+    background-image: url("../imgs/Group\ 1146.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.height_css{
+    height: 70vh;
+}
+
+.list_style{
+text-align: left;
+font: normal normal normal 31px/52px Microsoft JhengHei;
+letter-spacing: 0px;
+color: #CFC3C3;
+opacity: 1;
+}
+
+.btn_css{
+border: 1px solid #00FF5C;
+border-radius: 49px; 
+color: white;
+padding: 20px 30px ;
+background-color: rgba(255, 255, 255, 0.083);
+opacity: 1;
+backdrop-filter: blur(4px);
+-webkit-backdrop-filter: blur(4px);
+}
+
+.font_size{
+font: normal normal normal 30px/53px Microsoft JhengHei;
+opacity: 1;
+}
+
+.text-css_list{
+    /* UI Properties */
+text-align: left;
+font: normal normal normal 31px/54px Open Sans;
+letter-spacing: 0px;
+color: #D3F9E1;
+text-transform: capitalize;
+opacity: 1;
+}
+
+.token_bg{
+    background-image: url("../imgs/dark-green-color-solid-textured-cement-plaster-wall-surface-background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.style_type{
+    list-style-type:none;
+    color: white;
+    border-top: 2px solid #00FF5C;
+    border-left: 2px solid #00FF5C; 
+    border-bottom: 2px solid #00FF5C ;
+    padding: 20px 0px 20px 50px;
+    max-width: 500px;
+    border-radius: 20px 0px 0px 20px;
+    position: relative;
+}
+.number{
+    position: absolute;
+    top: 55px;
+    left: -20px;
+    background-color: black;
+    border: 2px solid #00FF5C; 
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.carousel-control-next-icon {
+    top: 0px;
+    left: -647px;
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e);
+    position: relative;
+}
+
+.position_slider_text {
+    position: relative;
+    color: white;
+    margin-top: 30px;
+}
+
+.carousel-fade .carousel-item-next.carousel-item-start, .carousel-fade .carousel-item-prev.carousel-item-end, .carousel-fade .carousel-item.active {
+    z-index: 1;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e);
+    position: relative;
+    left: 21px;
+}
+
+.faqssss{
+    color: white;
+}
+
+.border_css_top{
+    border-top: 3px dotted #00FF5C;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.bg_contact{
+    background-image: url("../imgs/Group\ 13599@2x.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid #00FF5C ;
+    border-radius: 20px;
+}
